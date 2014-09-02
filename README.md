@@ -2,4 +2,5 @@ hello-world-it-s-me-
 ====================
 
 my first repo on git-hub
-and i'm lost
+
+today is Monday 9/1/14
